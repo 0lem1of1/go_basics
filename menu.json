@@ -1,0 +1,203 @@
+{
+    "FRIDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "MIX SALAD",
+            "VEG MANCHURIAN",
+            "BLACK MASOOR DAL",
+            "EGG FRIED RICE / VEG FRIED RICE",
+            "CHAPATI",
+            "BALIUSHAHI"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "ONION SALAD",
+            "BAINGAN BHARTHA",
+            "RAJMA MASALA",
+            "DAL FRY",
+            "CHAPATI",
+            "PLAIN  RICE",
+            "BATHUA RAITA",
+            "SHIKANJI"
+        ]
+    },
+    "MONDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "POHA",
+            "GRAPES",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "MIRCH KE TAPORE/ LAHSUN CHUTNEY",
+            "ALOO RASSA",
+            "DAL FRY",
+            "BATI/ CHAPATI",
+            "PLAIN  RICE",
+            "RASAM"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "DISCO PAPAD",
+            "KADHI PAKODA",
+            "MADRASI ALOO",
+            "VEG KHICHDI",
+            "CHAPATI",
+            "PLAIN  RICE"
+        ]
+    },
+    "SATURDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "SUJI UPMA",
+            "ADRAK CHUTNEY",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "GREEN SALAD",
+            "SARSOON KA SAAG"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "GREEN CHUTNEY",
+            "FRENCH FRIES",
+            "RAGDA MUTTER",
+            "CURD /BUTTER",
+            "MIX VEG PARATHA",
+            "PLAIN  RICE",
+            "SAMBAR"
+        ]
+    },
+    "SUNDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "MASALA DOSA",
+            "SAMBHAR",
+            "GRAPES",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "PASTA SALAD",
+            "METHI MALAI MUTTER",
+            "DAL LASOONI",
+            "PLAIN RICE",
+            "CHAPATI",
+            "RASAM",
+            "HOT \u0026 SOUR SOUP"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "ONION SALAD",
+            "PANEER LABABDAR",
+            "DHABA CHICKEN",
+            "NAAN / CHAPATI",
+            "BIRYANI RICE"
+        ]
+    },
+    "THURSDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "MUTTER KULCHA",
+            "KULCHA",
+            "CUT ONION LEMON",
+            "PAPAYA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "GREEN SALAD",
+            "VEG KORMA",
+            "BUTTER DAL TADKA",
+            "CHAPATI",
+            "GULAB JAMUN"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "GREEN SALAD",
+            "GAJAR MUTTER",
+            "GATTA CURRY",
+            "CHANNA DAL TADKA",
+            "CHAPATI",
+            "PLAIN  RICE",
+            "SAMBAR",
+            "RASNA"
+        ]
+    },
+    "TUESDAY": {
+        "Breakfast": [
+            "NO EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "ALOO PARATHA",
+            "CURD",
+            "PICKEL",
+            "KINU",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "LEMON + ONION",
+            "KHATTA MEETHA PUMPKIN",
+            "CHOLE  MASALA",
+            "HOT CHOCO MILK"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "BHEL POORI",
+            "SWEET POTATO DRY",
+            "VEG KADHAI",
+            "DAL MAHARANI",
+            "PLAIN  RICE",
+            "SAMBAR",
+            "SWEET LASSI"
+        ]
+    },
+    "WEDNESDAY": {
+        "Breakfast": [
+            "CHOICE OF EGG",
+            "CORNFLAKES",
+            "BREAD +JAM",
+            "BREAD PAKODA",
+            "TOMATO KETCHUP",
+            "SWEET DALIYA",
+            "TEA+ COFFEE",
+            "Milk"
+        ],
+        "Dinner": [
+            "DINNER",
+            "ALOO CHANA CHAAT",
+            "TAWA VEG (NO KARELA)",
+            "DAL PALAK",
+            "CHAPATI"
+        ],
+        "Lunch": [
+            "LUNCH",
+            "CHAPATI",
+            "VEG POLAO",
+            "PINEAPPLE RAITA",
+            "CHOCO BURFI"
+        ]
+    }
+}
